@@ -1,6 +1,6 @@
 import { Box, Button, Grid, Typography } from "@mui/material";
 
-import { DoneIcon } from "../icons/done-icon";
+import { DoneIcon } from "./icons/done-icon";
 import { LinkItem } from "./link-item";
 import { styles } from "./styles";
 

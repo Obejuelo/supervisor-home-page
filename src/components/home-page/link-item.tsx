@@ -1,5 +1,5 @@
 import { Box, Button, Typography } from "@mui/material";
-import { ArrowRightIcon } from "../icons/arrow-right-icon";
+import { ArrowRightIcon } from "./icons/arrow-right-icon";
 
 type LinkItemProps = {
   img: string;
